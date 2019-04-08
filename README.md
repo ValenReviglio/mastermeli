@@ -13,3 +13,9 @@ Repositorio que usaremos para el ejercicio propuesto en el Academy IT de MELI
 ## Frase creativa
 - Bazinga!
 
+## Tabla de usuarios
+| Nombre del Compañero | Enlace a GitHub                   |
+| -------------------- | --------------------------------- |
+| Guido Michelini      | https://github.com/guidomichelini |
+| Marco Martinez       | https://github.com/marcojmsins    |
+| Marcos Lopez         | https://github.com/M-Exequiel     |

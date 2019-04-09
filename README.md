@@ -14,8 +14,10 @@ Repositorio que usaremos para el ejercicio propuesto en el Academy IT de MELI
 - Bazinga!
 
 ## Tabla de usuarios
+<div style={{"justify-content": "center"}}>
 | Nombre del Compañero | Enlace a GitHub                   |
 | -------------------- | --------------------------------- |
 | Guido Michelini      | https://github.com/guidomichelini |
 | Marco Martinez       | https://github.com/marcojmsins    |
 | Marcos Lopez         | https://github.com/M-Exequiel     |
+<div>
